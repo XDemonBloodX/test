@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+MERGED from [:shared_preferences] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-22:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_plugin_android_lifecycle\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-7:12
+MERGED from [:camera] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\camera\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-10:12
+MERGED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\bca357643dd2b58a40b27e189c47ab4c\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\79545cc3602336a661935d0398b775f5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1f711e36401932aca243d1866e73f9a4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\3ff43110a4043f3bee375366fb3ecad5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\47aef05b721e3053c2844f6738401cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a30849be31c270f37d377cfb17fd9014\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a1ddc997ca16848bcc1493673e0ef0e9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c8a6e158a6dabbd595862f507382b9fc\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\5d2b12ea9228ec036244f3a77f3e6877\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\5274406720c0324d51aa3b28ccfd491e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\cc5b1faa41ba1161f0cd1c9a87450d4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2d2e42320079de5c07f99a8a66ef1437\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\2a2dffedbb255536e676f67ca99d77ee\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\cd33fd399d8500f10c307c80840f5266\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d9add66f6fc43725f36e3aae0ee62a02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a35c3a367a458e946c95475e9323e5b4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\6577812b9f58f674e6f9ee898a3fc2e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c966a804184b4e8af46d832d68f75baf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\2f8f15ed61c5fb7a8a4f630912ae257e\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\6d841dd7d5db5edff5d0b0872ae28fef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b551c6f44d92045c0425d52a5b1a97ad\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:2:5-35
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:1-33:12
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:9:5-32:19
+MERGED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:5-20:19
+MERGED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-19:19
+MERGED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-19:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2d2e42320079de5c07f99a8a66ef1437\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2d2e42320079de5c07f99a8a66ef1437\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\2f8f15ed61c5fb7a8a4f630912ae257e\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\2f8f15ed61c5fb7a8a4f630912ae257e\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2d2e42320079de5c07f99a8a66ef1437\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:11:9-33
+	android:icon
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:12:9-43
+	android:name
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:10:9-57
+activity#com.example.epicture.MainActivity
+ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:13:9-31:20
+	android:launchMode
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:15:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:18:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:19:13-55
+	android:configChanges
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:17:13-144
+	android:theme
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:16:13-47
+	android:name
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:24:13-26:40
+	android:value
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:26:17-37
+	android:name
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:25:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\shared_preferences\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_plugin_android_lifecycle\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_plugin_android_lifecycle\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\camera\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:camera] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\camera\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:6:5-44
+MERGED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:6:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\bca357643dd2b58a40b27e189c47ab4c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\exifinterface-1.3.0.aar\bca357643dd2b58a40b27e189c47ab4c\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\79545cc3602336a661935d0398b775f5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0.aar\79545cc3602336a661935d0398b775f5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1f711e36401932aca243d1866e73f9a4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1f711e36401932aca243d1866e73f9a4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\3ff43110a4043f3bee375366fb3ecad5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0.aar\3ff43110a4043f3bee375366fb3ecad5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\47aef05b721e3053c2844f6738401cf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\47aef05b721e3053c2844f6738401cf6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a30849be31c270f37d377cfb17fd9014\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\a30849be31c270f37d377cfb17fd9014\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a1ddc997ca16848bcc1493673e0ef0e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\a1ddc997ca16848bcc1493673e0ef0e9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c8a6e158a6dabbd595862f507382b9fc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\c8a6e158a6dabbd595862f507382b9fc\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\5d2b12ea9228ec036244f3a77f3e6877\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0.aar\5d2b12ea9228ec036244f3a77f3e6877\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\5274406720c0324d51aa3b28ccfd491e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0.aar\5274406720c0324d51aa3b28ccfd491e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\cc5b1faa41ba1161f0cd1c9a87450d4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\cc5b1faa41ba1161f0cd1c9a87450d4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2d2e42320079de5c07f99a8a66ef1437\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\2d2e42320079de5c07f99a8a66ef1437\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\2a2dffedbb255536e676f67ca99d77ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\2a2dffedbb255536e676f67ca99d77ee\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\cd33fd399d8500f10c307c80840f5266\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\cd33fd399d8500f10c307c80840f5266\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d9add66f6fc43725f36e3aae0ee62a02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\d9add66f6fc43725f36e3aae0ee62a02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a35c3a367a458e946c95475e9323e5b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\a35c3a367a458e946c95475e9323e5b4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\6577812b9f58f674e6f9ee898a3fc2e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\6577812b9f58f674e6f9ee898a3fc2e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c966a804184b4e8af46d832d68f75baf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c966a804184b4e8af46d832d68f75baf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\2f8f15ed61c5fb7a8a4f630912ae257e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\2f8f15ed61c5fb7a8a4f630912ae257e\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\6d841dd7d5db5edff5d0b0872ae28fef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\6d841dd7d5db5edff5d0b0872ae28fef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b551c6f44d92045c0425d52a5b1a97ad\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tangu\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\b551c6f44d92045c0425d52a5b1a97ad\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\image_picker\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:17:17-67
+uses-permission#android.permission.CAMERA
+ADDED from [:camera] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\camera\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from [:camera] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\camera\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [:camera] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\camera\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from [:camera] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\camera\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:8:22-68
+provider#androidx.core.content.FileProvider
+ADDED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:9:9-18:20
+	android:grantUriPermissions
+		ADDED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:13:13-47
+	android:authorities
+		ADDED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:11:13-64
+	android:exported
+		ADDED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:12:13-37
+	tools:replace
+		ADDED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:14:13-48
+	android:name
+		ADDED from [:flutter_webview_plugin] C:\Users\tangu\Downloads\Epicture-master (1)\Epicture-master\build\flutter_webview_plugin\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:10:13-62
